@@ -1,5 +1,5 @@
 # MiniBank MCP Agent
-## OpenAI Responses API + MCP Server
+## Local OpenAI Responses API + MCP Server
 
 ---
 
