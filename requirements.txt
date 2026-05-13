@@ -1,0 +1,5 @@
+openai>=1.70.0
+mcp[cli]>=1.9.0
+python-dotenv>=1.0.0
+uvicorn
+starlette
